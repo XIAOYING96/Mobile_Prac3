@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940171518808",
+    "project_id": "prac3-be640",
+    "storage_bucket": "prac3-be640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940171518808:android:862f3f3d0399fa92fbbb2d",
+        "android_client_info": {
+          "package_name": "com.example.prac3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940171518808-bspf79r0fncn27jr40qodpg0go4omkdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzfpk86QGrHiemhA4iGPXJ5RhMWYgI81U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940171518808-bspf79r0fncn27jr40qodpg0go4omkdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
